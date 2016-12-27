@@ -1,0 +1,16 @@
+info face="DejaVu Sans Mono Book" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=1,1,1,1 spacing=-2,-2
+common lineHeight=47 base=34 scaleW=512 scaleH=512 pages=1 packed=0
+page id=0 file="DejaVuSansMono.png"
+chars count=11
+char id=0       x=172  y=0    width=18   height=31   xoffset=1    yoffset=9    xadvance=19   page=0    chnl=0 
+char id=32      x=0    y=0    width=0    height=0    xoffset=-1   yoffset=32   xadvance=19   page=0    chnl=0 
+char id=64      x=0    y=0    width=20   height=29   xoffset=0    yoffset=10   xadvance=20   page=0    chnl=0 
+char id=183     x=166  y=0    width=6    height=7    xoffset=7    yoffset=18   xadvance=20   page=0    chnl=0 
+char id=9728    x=83   y=0    width=21   height=21   xoffset=-1   yoffset=11   xadvance=19   page=0    chnl=0 
+char id=9733    x=145  y=0    width=21   height=19   xoffset=-1   yoffset=15   xadvance=19   page=0    chnl=0 
+char id=10022   x=62   y=0    width=21   height=21   xoffset=-1   yoffset=14   xadvance=19   page=0    chnl=0 
+char id=10035   x=125  y=0    width=20   height=20   xoffset=0    yoffset=14   xadvance=19   page=0    chnl=0 
+char id=10038   x=20   y=0    width=21   height=23   xoffset=-1   yoffset=12   xadvance=19   page=0    chnl=0 
+char id=10039   x=104  y=0    width=21   height=21   xoffset=-1   yoffset=14   xadvance=19   page=0    chnl=0 
+char id=10040   x=41   y=0    width=21   height=22   xoffset=-1   yoffset=13   xadvance=19   page=0    chnl=0 
+kernings count=0
