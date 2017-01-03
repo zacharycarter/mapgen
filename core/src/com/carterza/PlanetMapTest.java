@@ -215,7 +215,7 @@ public class PlanetMapTest implements ApplicationListener {
 
     @Override
     public void create() {
-        mapGenerator = new MapGenerator(120,40);
+        mapGenerator = new MapGenerator(512,512);
 
         tex = mapGenerator.generate();
         nm = new Texture(Gdx.files.internal("normalmap.png"));
