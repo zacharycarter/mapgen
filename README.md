@@ -14,8 +14,8 @@ Here are some screenshots / videos / albums of the types of maps the generator c
 ![ss2](http://i.imgur.com/2XHxlId.png)
 ![ss3](http://i.imgur.com/sguEOTh.png)
 
-[!video one](http://i.imgur.com/wf4W8Qb.mp4)
+[video one](http://i.imgur.com/wf4W8Qb.mp4)
 
-[!video two](http://i.imgur.com/vJ4JLJh.mp4)
+[video two](http://i.imgur.com/vJ4JLJh.mp4)
 
-[!album one](http://imgur.com/a/CoLac)
+[album one](http://imgur.com/a/CoLac)
