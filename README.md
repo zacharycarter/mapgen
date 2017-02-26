@@ -8,13 +8,14 @@ It's based on the tutorial found - http://www.jgallant.com/procedurally-generati
 The code was experimental and moved around a lot and I can't attest to the current state of it. It will compile but some things
 like shaders may not be enabled.
 
-Here are some gifs / albums of the types of maps the generator can produce :
+Here are some screenshots / videos / albums of the types of maps the generator can produce :
 
-[!gif1]
-(http://i.imgur.com/wf4W8Qb.mp4)
+![ss1](http://i.imgur.com/tlUKlSM.png)
+![ss2](http://i.imgur.com/2XHxlId.png)
+![ss3](http://i.imgur.com/sguEOTh.png)
 
-[!video2]
-(http://i.imgur.com/vJ4JLJh.mp4)
+[!video one](http://i.imgur.com/wf4W8Qb.mp4)
 
-[!album1]
-(http://imgur.com/a/CoLac)
+[!video two](http://i.imgur.com/vJ4JLJh.mp4)
+
+[!album one](http://imgur.com/a/CoLac)
